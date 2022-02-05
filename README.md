@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheEightDesign
+- 👀 I’m interested in UI Design and Mobile App Development
+- 🌱 I’m currently learning IOS Development
+- 💞️ I’m looking to collaborate on projects to help me learn
+- 📫 How to reach me andy@the8.design
