@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheEightDesign
+- 👋 Hi, I’m Andy
 - 👀 I’m interested in Web Development and UI Design
 - 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on projects
